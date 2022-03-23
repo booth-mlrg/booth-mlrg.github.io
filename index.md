@@ -16,3 +16,8 @@ Every Monday 11am-12pm / Location: Harper Center 3A
 - [Spring 2021](2021S.md)
 - [Winter 2021](2020W.md)
 - [Fall 2020](2020F.md)
+
+## Resources
+### Natural Langauge Processing
+### Reinforcement Learning
+- [Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/RLbook.html) course on RL and optimal control
