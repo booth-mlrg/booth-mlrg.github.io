@@ -20,5 +20,6 @@ Every Monday 11am-12pm / Location: Harper Center 3A
 ## Resources
 ### Natural Langauge Processing
 - [Stanford Course](https://web.stanford.edu/class/cs224n/index.html#schedule) on NLP with Deep Learning
+
 ### Reinforcement Learning
 - [Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/RLbook.html) course on RL and optimal control
