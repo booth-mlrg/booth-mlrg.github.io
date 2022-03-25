@@ -8,10 +8,11 @@ The group is open to PhD students and faculty.
 
 ## Schedule & Logistics
 ### 2021-22 Academic Year
-Every Monday 11am-12pm / Location: Harper Center 3A
-- [Winter 2022](2022W.md)
+Every Friday 11am-12pm / Location: Harper Center 3A
+- [Spring 2022](2022S.md)
 
 ### Past Sessions
+- [Winter 2022](2022W.md)
 - [Fall 2021](2021F.md)
 - [Spring 2021](2021S.md)
 - [Winter 2021](2020W.md)
