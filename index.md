@@ -4,14 +4,13 @@ The Chicago Booth Machine Learning in Finance Reading Group is a student-run org
 
 The group is open to PhD students and faculty.
 - Faculty Organizer: [Stefan Nagel](https://voices.uchicago.edu/stefannagel/)
-- Student Coordinators (2021-22): [Aditya Chaudhry](https://voices.uchicago.edu/adityachaudhry/) and [Sangmin Oh](https://sangmino.github.io/)
+- Student Coordinators (2022-23): [Sangmin Oh](https://sangmino.github.io/)
 
 ## Schedule & Logistics
-### 2021-22 Academic Year
-Every Friday 11am-12pm / Location: Harper Center 3A
-- [Spring 2022](2022S.md)
+Current Schedule: - [Fall 2022](2022F.md)
 
 ### Past Sessions
+- [Spring 2022](2022S.md)
 - [Winter 2022](2022W.md)
 - [Fall 2021](2021F.md)
 - [Spring 2021](2021S.md)
