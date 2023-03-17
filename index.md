@@ -7,9 +7,10 @@ The group is open to PhD students and faculty.
 - Student Coordinators (2022-23): [Sangmin Oh](https://sangmino.github.io/)
 
 ## Schedule & Logistics
-Current Schedule: [Winter 2023](2023W.md)
+Current Schedule: [Spring 2023](2023S.md)
 
 ### Past Sessions
+- [Winter 2023](2023W.md)
 - [Fall 2022](2022F.md)
 - [Spring 2022](2022S.md)
 - [Winter 2022](2022W.md)
