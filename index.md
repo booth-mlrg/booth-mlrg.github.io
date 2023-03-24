@@ -23,6 +23,7 @@ Current Schedule: [Spring 2023](2023S.md)
 ### Natural Langauge Processing
 - [Stanford Course](https://web.stanford.edu/class/cs224n/index.html#schedule) on NLP with Deep Learning
 - [Nice overview](https://xcorr.net/2022/05/30/large-language-models-will-change-science) of what can be done with NLP
+- The clearest overview of [How ChatGPT works](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram
 
 ### Reinforcement Learning
 - [Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/RLbook.html) course on RL and optimal control
