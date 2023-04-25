@@ -21,8 +21,9 @@ Current Schedule: [Spring 2023](2023S.md)
 
 ## Resources
 
-### Basics
+### General
 - [High-Dimensional Probability for Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html) by Roman Vershynin (UC Irvine)
+- [Econometrics IV](https://ditraglia.com/econ722/) by Francis J. DiTraglia (UPenn)
 
 ### Natural Langauge Processing
 - [Stanford Course](https://web.stanford.edu/class/cs224n/index.html#schedule) on NLP with Deep Learning
