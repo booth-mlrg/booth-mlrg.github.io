@@ -27,3 +27,6 @@ Current Schedule: [Spring 2023](2023S.md)
 
 ### Reinforcement Learning
 - [Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/RLbook.html) course on RL and optimal control
+
+### Causal Inference
+- [Causal Inference from ML Perspective](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
