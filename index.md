@@ -20,6 +20,10 @@ Current Schedule: [Spring 2023](2023S.md)
 - [Fall 2020](2020F.md)
 
 ## Resources
+
+### Basics
+- [High-Dimensional Probability for Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html) by Roman Vershynin (UC Irvine)
+
 ### Natural Langauge Processing
 - [Stanford Course](https://web.stanford.edu/class/cs224n/index.html#schedule) on NLP with Deep Learning
 - [Nice overview](https://xcorr.net/2022/05/30/large-language-models-will-change-science) of what can be done with NLP
