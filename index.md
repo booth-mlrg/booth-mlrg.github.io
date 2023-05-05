@@ -35,5 +35,6 @@ Current Schedule: [Spring 2023](2023S.md)
 ### Reinforcement Learning
 - [Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/RLbook.html) course on RL and optimal control
 
-### Causal Inference
+### Econometrics
 - [Causal Inference from ML Perspective](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
+- [Machine Learning for Econometrics](https://drive.google.com/file/d/1L_iervUBKj3RsXHLEGOtAFlyHEHpmyT4/view) by Christophe Gaillac and Jereemy L’Hour
